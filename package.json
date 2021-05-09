@@ -24,6 +24,6 @@
     "nodemon": "^1.19.1"
   },
   "devDependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   }
 }
